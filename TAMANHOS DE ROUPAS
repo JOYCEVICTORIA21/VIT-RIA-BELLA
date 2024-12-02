@@ -1,0 +1,33 @@
+def determinar_tamanho(altura, peso):  
+    # Tabelas de tamanho para camisetas e calças (simplificadas)
+    if altura < 150:  
+        tamanho = "P"  # Pequeno
+    elif altura >= 150 and altura <= 165:  
+        tamanho = "M"  # Médio
+    elif altura > 165:  
+        tamanho = "G"  # Grande
+    else:  
+        tamanho = "Indefinido"
+
+    if peso < 50:  
+        tamanho_peso = "P"
+    elif peso >= 50 and peso <= 75:  
+        tamanho_peso = "M"
+    else:  
+        tamanho_peso = "G"
+    
+    # Combina as informações de tamanho
+    if tamanho == tamanho_peso:  
+        return tamanho
+    else:  
+        return "Varia conforme a peça. Consulte tabela de tamanhos."
+
+# Solicitar dados do usuário
+altura = float(input("Digite sua altura em cm:   "))
+peso = float(input("Digite seu peso em kg:   "))
+
+# Chamar a função para determinar o tamanho
+tamanho = determinar_tamanho(altura, peso)
+
+# Exibir o tamanho recomendado
+print(f"O tamanho recomendado para você é:   {tamanho}")
