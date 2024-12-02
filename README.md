@@ -10,4 +10,9 @@ Loja de Roupas Física tem uma lista de funcionalidades para satisfazer os clien
 * ESTOQUE
 CRONOGRAMA DE DESENVOLVIMENTO DO PROJETO
 Na segunda-Feira começei a criar a minha loja de roupa física
-Na Terça-Feira começei a criar as formas de pagamento e também fazendo 
+Na Terça-Feira começei a criar o código de boas vindas 
+Na Quarta-Feira começei a criar as formas de pagamento como Dinheiro, Pix ou Cartão
+Na Quinta-Feira coloquei os código de tamanhos que averia na minha loja como também infantil femenino, masculino
+
+
+
