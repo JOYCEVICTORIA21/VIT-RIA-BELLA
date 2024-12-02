@@ -1,0 +1,8 @@
+def boas_vindas():
+    print("Bom dia! Seja bem-vindo(a) à Vitória Bella!")
+    print("Aqui você encontra uma grande variedade de roupas para todas as idades e estilos.")
+    print("Temos roupas infantis, femininas e masculinas.")
+    print("Aproveite para conferir nossas opções de roupas com qualidade e estilo!")
+    
+# Chama a função para exibir a mensagem
+boas_vindas()
