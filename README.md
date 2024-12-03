@@ -8,11 +8,11 @@ Loja de Roupas Física tem uma lista de funcionalidades para satisfazer os clien
 * PROVADORES
 * LIQUIDAÇÃO
 * ESTOQUE
-CRONOGRAMA DE DESENVOLVIMENTO DO PROJETO
-Na segunda-Feira começei a criar a minha loja de roupa física
-Na Terça-Feira começei a criar o código de boas vindas 
-Na Quarta-Feira começei a criar as formas de pagamento como Dinheiro, Pix ou Cartão
-Na Quinta-Feira coloquei os código de tamanhos que averia na minha loja como também infantil femenino, masculino
 
+CRONOGRAMA DE DESENVOLVIMENTO DO PROJETO
+Na segunda-Feira começei a criar o código de boas vindas e aqui você encontra grandes variedades de roupas, quanto infantil Femeninas e masculinas.
+Na Terça-Feira  começei a criar as formas de pagamento como Dinheiro, Pix ou Cartão.
+Na Quarta-Feira Criei a tabela de tamanhos para camisetas e calças dai você solicita os dados do usuário como altura e peso, dai ele te diz qual tamanho da roupa
+é a certa para você.
 
 
